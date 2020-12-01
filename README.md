@@ -48,7 +48,9 @@
 [simon-vansintjan](md/people/simon-vansintjan)	<br>
 [una-kravets](md/people/una-kravets)	<br>
 [xavier-julian](md/people/xavier-julian)	<br>
-[yoroy](md/people/yoroy)	<br>
+[yoroy](yoroy)	<br>
 
 OUR WEB:[www.321ome.com](www.321ome.com)
-team:[www.oneshu.xyz](www.oneshu.xyz)
+team:www.oneshu.xyz
+
+club：www.mline.top

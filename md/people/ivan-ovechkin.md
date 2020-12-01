@@ -17,3 +17,13 @@ I love to design things =)
 I'm also in love this digital fabrication (and all kinds of DIY activities actually). All this 3d-printers, CNC's, laser cutters, microcontrollers, robots, drones... =)
 
 I'm enjoying open source movement and hope to meet some cool projects and people here.
+
+layout: post
+title: Ivan Ovechkin, curious UI/UX/graphic designer
+name: Ivan Ovechkin
+github: myckyc
+url: http://designninja.ru
+tags: ui, ux, graphics, design, illustrations, logo, apps, websites, digital fabrication, diy, music, zombies
+availability: available
+rate: gratis / flexible
+projects: open source projects just about to come
